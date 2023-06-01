@@ -12,8 +12,17 @@ Publically accessible link to Global COVID-19 [ArcGIS Dashboard](https://insight
 #### Phylogenetic Network
 ![Louisiana Phylogenetic Network](/img/phylogenetic_network_LA.PNG) <br>
 
-#### Geography Network
+#### Geographic Network
 ![Louisiana Geographic Network](/img/geo_network_LA.PNG) <br>
 
 ### Global COVID-19 Dashboard using directly GISAID data
+#### Dashboard
 ![Previous Global Dashboard](/img/dashboard_global_0.PNG) <br>
+
+#### Geographic Network
+![Previous Global Geographic Network](/img/geo_network_global_0.PNG) <br>
+
+
+### Global COVID-19 Dashboard after applying ACCTRAN on the global GISAID data
+#### Geographic Network
+![ACCTRAN Global Geographic Network](/img/geo_network_global_1.PNG) <br>
