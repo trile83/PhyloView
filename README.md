@@ -19,7 +19,7 @@ Publically accessible link to Global COVID-19 [ArcGIS Dashboard](https://insight
 #### Dashboard
 ![Previous Global Dashboard](/img/dashboard_global_0.PNG) <br>
 
-#### Geographic Network
+#### Geographic Network using the provided geographic data (aggregated to continental level)
 ![Previous Global Geographic Network](/img/geo_network_global_0.PNG) <br>
 
 
