@@ -9,14 +9,14 @@ Publically accessible link to Global COVID-19 [ArcGIS Dashboard](https://insight
 #### The first use case using locally available data of the state of Louisiana, USA.
 ![Louisiana Dashboard](/img/dashboard_LA.PNG) <br> 
 
-#### Phylogenetic Network
+#### Phylogenetic Network (COVID-19 Evolution through time)
 ![Louisiana Phylogenetic Network](/img/phylogenetic_network_LA.PNG) <br>
 
-#### Geographic Network
+#### Geographic Network (COVID-19 spread through geographic locations)
 ![Louisiana Geographic Network](/img/geo_network_LA.PNG) <br>
 
 ### Global COVID-19 Dashboard using directly GISAID data
-#### Dashboard
+#### Full Visualization Dashboard with 10000 global data points
 ![Previous Global Dashboard](/img/dashboard_global_0.PNG) <br>
 
 #### Geographic Network using the provided geographic data (aggregated to continental level)
