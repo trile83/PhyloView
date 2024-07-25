@@ -23,6 +23,7 @@ Publically accessible link to Global COVID-19 [ArcGIS Dashboard](https://insight
 ![Previous Global Geographic Network](/img/geo_network_global_0.PNG) <br>
 
 
-### Global COVID-19 Dashboard after applying ACCTRAN on the global GISAID data
+### Global COVID-19 Geographic Network after applying ACCTRAN algorithm on the global GISAID data
+ACCTRAN algorithm allowed researchers to infer the data characteristics of intermediate nodes within a large graph network. We used ACCTRAN to extract information from parent and child nodes for geographic locations to create a detailed COVID-19 spread network.
 #### Geographic Network
 ![ACCTRAN Global Geographic Network](/img/geo_network_global_1.PNG) <br>
